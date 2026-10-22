@@ -26,6 +26,20 @@
 9. test de la metier.calcul()
 ![img_6.png](img_6.png)
 
-10. 
+10. création du directory ressources et du dossier conf.txt
+![img_7.png](img_7.png)
+
+11. modification de MetierImpl avec un setter, pour injecter DAO
+![img_8.png](img_8.png)
+
+12. Modification de presentation
+![img_9.png](img_9.png)
+![img_10.png](img_10.png) 
+
+13. modification de conf.txt
+![img_11.png](img_11.png)
+
+14. test du programme
+
 
 
