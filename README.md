@@ -1,4 +1,10 @@
 # Activit-Pratique-N-1---Injection-des-d-pendances
+
+## Introduction
+Ce projet consiste à mettre en pratique le concept d'injection de dépendances en Java, un principe qui permet de réduire le couplage entre les classes et de rendre le code plus flexible et maintenable.
+L'objectif est d'implémenter et de comparer différentes méthodes d'injection de dépendances : l'injection statique, l'injection dynamique par réflexion, ainsi que l'utilisation du framework Spring avec une configuration XML et des annotations.
+Ce travail pratique permet de comprendre les avantages de chaque approche et de découvrir comment l'injection de dépendances facilite le développement et la maintenance des applications Java.
+
 1. v Création de l'interface IDao avec une méthode getData
 ![Capture d'écran 2026-10-21 104434.png](../../../../../../../Pictures/Screenshots/Capture%20d%27%C3%A9cran%202026-10-21%20104434.png)
 
