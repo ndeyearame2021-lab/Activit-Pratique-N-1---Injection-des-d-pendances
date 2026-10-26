@@ -45,8 +45,25 @@
 ![img_14.png](img_14.png)
 
 16. presentationSpringXml
+![img_16.png](img_16.png)
 
+17. test de presentationSpringXml
+![img_15.png](img_15.png)
     
+18. modification de metierImpl et DaoImpl avec component
+![img_17.png](img_17.png)
+![img_18.png](img_18.png)
 
+19. instanciation framework spring version annotations avec test
+![img_19.png](img_19.png)
 
+Conclusion : Ce projet m'a permis de comprendre le concept d'injection de dépendances en Java et son importance dans la réduction du couplage entre les classes. 
+J'ai mis en œuvre quatre approches :
+-L'injection de dépendances statique
+-L'injection de dépendances dynamique à l'aide de la réflexion Java
+-L'injection de dépendances avec Spring XML
+-L'injection de dépendances avec les annotations Spring
+
+Ce travail pratique a permis de découvrir comment l'injection de dépendances améliore la flexibilité, la maintenabilité et la réutilisabilité du code.
+Il a également aidée à mieux comprendre les principes de la programmation orientée objet et les mécanismes du framework Spring.
 
