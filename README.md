@@ -32,14 +32,21 @@
 11. modification de MetierImpl avec un setter, pour injecter DAO
 ![img_8.png](img_8.png)
 
-12. Modification de presentation
-![img_9.png](img_9.png)
-![img_10.png](img_10.png) 
+12. presentation2 pour l'instanciation dynamique
+![img_12.png](img_12.png)
 
 13. modification de conf.txt
 ![img_11.png](img_11.png)
 
-14. test du programme
+14. test du programme presentation2
+![img_13.png](img_13.png)
+
+15. ajout des dépendances dans pom.xml
+![img_14.png](img_14.png)
+
+16. presentationSpringXml
+
+    
 
 
 
